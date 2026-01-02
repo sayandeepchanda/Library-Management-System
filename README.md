@@ -22,14 +22,14 @@ Console Version (Base File – MySQL):
 3. Open Command Prompt / Terminal and install MySQL connector for Python: pip install mysql-connector-python
 4. Update MySQL connection details (host, username, password) inside the Python file if required.
 5. Run the program using file:
-   LIBRARY MANAGEMENT SYSTEM/Python Base Version/Library Management System Base File
+   LIBRARY-MANAGEMENT-SYSTEM/Python Base Version/Library Management System Base File
 
 
 GUI Version (Advanced Version – SQLite):
 
 1. Install Python 3.x on the system.
 2. No external database setup is required as SQLite is used.
-3. Run the program using file: LIBRARY MANAGEMENT SYSTEM/Python GUI Version (Advanced)/Library Management System GUI (Advanced)
+3. Run the program using file: LIBRARY-MANAGEMENT-SYSTEM/Python GUI Version (Advanced)/Library Management System GUI (Advanced)
 
 
 Note:
